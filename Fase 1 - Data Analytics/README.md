@@ -135,7 +135,7 @@ Fase 1 - Data Analytics/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/<seu-usuario>/FIAP-Pos-Tech-Data-Analytics.git
+git clone https://github.com/LPLandim/FIAP-Pos-Tech-Data-Analytics.git
 cd "FIAP-Pos-Tech-Data-Analytics/Fase 1 - Data Analytics"
 ```
 
