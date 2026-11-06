@@ -40,3 +40,4 @@ A documentação detalhada, notebooks em Python, relatório executivo e o certif
 
 **Lucas Paes Landim Pereira**  
 * [LinkedIn](https://www.linkedin.com/in/lucaspaeslp/)
+

@@ -4,23 +4,23 @@ Este diretório contém os dados e especificações utilizadas na análise de e-
 
 ---
 
-## 📌 Origem dos Dados
-A base de dados utilizada é o **Brazilian E-Commerce Public Dataset by Olist**, cobrindo o histórico de cerca de 100.000 pedidos realizados no Brasil entre setembro de 2016 e agosto de 2018.
+## 📌 Origem dos Dados Brutos
+A base de dados pública utilizada é o **Brazilian E-Commerce Public Dataset by Olist**, cobrindo o histórico de cerca de 100.000 pedidos realizados no Brasil entre setembro de 2016 e agosto de 2018.
 
-### 🔗 Onde baixar os dados completos:
-Devido à política do GitHub de limitação de tamanho de arquivos (limite máximo de 100 MB por arquivo para `git push`), a planilha consolidada bruta (`olist dados para analise.xlsx` com ~149 MB) e os arquivos descompactados estão disponibilizados no Google Drive:
-
-* **[Google Drive - Arquivos da Fase 1](https://drive.google.com/drive/u/0/folders/1nvpzOsPa1k5dvAk_3hQjUjoaU_xxG2e3)**
 * **[Kaggle - Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
 
 ---
 
-## 📊 Arquivos Disponíveis neste Repositório:
-* `analise_regional_olist.xlsx`: Consolidação regional tratada com volume de clientes, pedidos e taxas de atraso por Unidade Federativa (UF).
+## 📊 Dados Tratados Disponíveis no Repositório
+* **`analise_regional_olist.xlsx`**: Arquivo com os **dados consolidados e tratados** resultantes do pipeline de análise. Contém a distribuição regional por estado (UF), consolidando:
+  * Contagem e participação percentual de clientes;
+  * Volume total de pedidos entregues;
+  * Quantidade e taxa percentual de pedidos entregues com atraso;
+  * Classificação de prioridade estratégica por volume e criticidade operacional.
 
 ---
 
-## 🗂️ Estrutura Relacional da Base Olist:
+## 🗂️ Estrutura Relacional da Base Olist (Dados de Entrada):
 1. **Orders (`olist_orders_dataset`)**: Informações de compra, status do pedido e carimbos de data/hora (compra, aprovação, envio, entrega efetiva e previsão estimada).
 2. **Order Items (`olist_order_items_dataset`)**: Identificação dos produtos por pedido, vendedor, valor de frete e preço unitário.
 3. **Payments (`olist_order_payments_dataset`)**: Meios de pagamento (cartão de crédito, boleto, voucher, débito), valor pago e parcelamento.

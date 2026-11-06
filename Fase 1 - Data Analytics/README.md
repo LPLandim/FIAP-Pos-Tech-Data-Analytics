@@ -116,17 +116,17 @@ Fase 1 - Data Analytics/
 │
 ├── docs/                                              <- Documentos executivos e certificação
 │   ├── Certificado_Fase1_Data_Analytics.png           <- Certificado oficial de conclusão
-│   ├── Documento Executivo - Olist.pdf                 <- Relatório executivo final em PDF
-│   ├── Relatorio_Executivo_Olist_Editavel.docx         <- Relatório executivo editável
+│   ├── Relatorio Executivo Olist FIAP.pdf              <- Relatório executivo final oficial da equipe
+│   ├── Relatorio_Executivo_Olist_Editavel.docx         <- Versão editável do relatório
 │   └── POSTECH - [DTAT] - Tech Challenge - Fase 1.pdf <- Enunciado e diretrizes oficiais do desafio
 │
 ├── notebooks/                                         <- Notebooks Jupyter com scripts analíticos
-│   ├── baseEGraficos.ipynb                            <- Notebook principal com gráficos e análises
+│   ├── baseEGraficos.ipynb                            <- Notebook com gráficos e análises
 │   └── baseEGraficos_v2.ipynb                         <- Versão completa com gráficos e outputs gerados
 │
 └── data/                                              <- Dados e dicionário da base
-    ├── README.md                                      <- Guia dos dados e links de download
-    └── analise_regional_olist.xlsx                    <- Tabela consolidada de métricas por estado
+    ├── README.md                                      <- Guia dos dados e link do Kaggle
+    └── analise_regional_olist.xlsx                    <- Dados consolidados e tratados por UF
 ```
 
 ---
