@@ -164,7 +164,7 @@ jupyter notebook notebooks/analise_olist.ipynb
 
 **Lucas Paes Landim Pereira**  
 Aluno da Pós-Tech em Data Analytics (FIAP \| Alura \| PM3)  
-* [LinkedIn](https://www.linkedin.com/in/lucaspaeslp/)
+* [LinkedIn](https://www.linkedin.com/in/LPLandim/)
 
 ---
 

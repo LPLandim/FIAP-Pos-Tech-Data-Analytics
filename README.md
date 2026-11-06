@@ -39,5 +39,5 @@ A documentação detalhada, notebooks em Python, relatório executivo e o certif
 ## 👨‍💻 Autor
 
 **Lucas Paes Landim Pereira**  
-* [LinkedIn](https://www.linkedin.com/in/lucaspaeslp/)
+* [LinkedIn](https://www.linkedin.com/in/LPLandim/)
 
