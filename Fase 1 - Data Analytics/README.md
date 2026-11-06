@@ -160,11 +160,15 @@ jupyter notebook notebooks/analise_olist.ipynb
 
 ---
 
-## 👨‍💻 Autor
+## 👥 Equipe do Projeto
 
-**Lucas Paes Landim Pereira**  
-Aluno da Pós-Tech em Data Analytics (FIAP \| Alura \| PM3)  
-* [LinkedIn](https://www.linkedin.com/in/LPLandim/)
+* **Lucas Paes Landim Pereira** — [LinkedIn](https://www.linkedin.com/in/LPLandim/)
+* **Nubia de Oliveira Borges**
+* **Jéssica Fernanda Rebelo**
+* **Enrico Figueiredo Del Guerra**
+* **Andre Reis Timoteo dos Santos**
+
+*Especialização Pós-Tech em Data Analytics (FIAP \| Alura \| PM3)*
 
 ---
 
