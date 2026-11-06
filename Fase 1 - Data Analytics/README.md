@@ -117,12 +117,10 @@ Fase 1 - Data Analytics/
 ├── docs/                                              <- Documentos executivos e certificação
 │   ├── Certificado_Fase1_Data_Analytics.png           <- Certificado oficial de conclusão
 │   ├── Relatorio Executivo Olist FIAP.pdf              <- Relatório executivo final oficial da equipe
-│   ├── Relatorio_Executivo_Olist_Editavel.docx         <- Versão editável do relatório
 │   └── POSTECH - [DTAT] - Tech Challenge - Fase 1.pdf <- Enunciado e diretrizes oficiais do desafio
 │
 ├── notebooks/                                         <- Notebooks Jupyter com scripts analíticos
-│   ├── baseEGraficos.ipynb                            <- Notebook com gráficos e análises
-│   └── baseEGraficos_v2.ipynb                         <- Versão completa com gráficos e outputs gerados
+│   └── analise_olist.ipynb                            <- Notebook completo com gráficos, tratamentos e saídas
 │
 └── data/                                              <- Dados e dicionário da base
     ├── README.md                                      <- Guia dos dados e link do Kaggle
@@ -155,9 +153,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Executar os notebooks
+### 4. Executar o notebook
 ```bash
-jupyter notebook notebooks/baseEGraficos_v2.ipynb
+jupyter notebook notebooks/analise_olist.ipynb
 ```
 
 ---
